@@ -93,7 +93,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg",
       },
       {
         name: "GitHub",
@@ -128,13 +128,13 @@ export const skills = [
       {
         name: "Postman",
         image:
-          "https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667",
+          "https://github.com/devicons/devicon/raw/master/icons/postman/postman-original.svg",
       },
 
       {
         name: "Figma",
         image:
-          "https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667",
+          "https://github.com/devicons/devicon/raw/master/icons/figma/figma-original.svg",
       },
     ],
   },
@@ -156,7 +156,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/Kiit.jpeg?alt=media&token=3839d520-c59d-4341-ad8f-0980c98de4dd",
+    img: "https://www.iiitm.ac.in/images/Logo.jpg",
     school:
       "Indian Institute of Information Technology and Management, Gwalior",
     date: "Oct 2021 - June 2026",
@@ -166,7 +166,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/methodist.png?alt=media&token=018a1b18-e2dd-4f34-8855-cff1b6b69fd3",
+    img: "https://upload.wikimedia.org/wikipedia/en/8/82/Jawahar_Navodaya_Vidyalaya_logo.png",
     school: "Jawahar Navodaya Vidyalaya Chhindwara, Madhya Pradesh",
     date: "Apr 2013 - Apr 2020",
     grade: "87.6%",
@@ -250,7 +250,7 @@ export const projects = [
       "The Meals App is a recipe and meal planning application designed to help users discover and manage their meal choices. The app uses Flutter for the frontend and Firebase for backend operations.",
     // image:
     //   "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["Dart", "Flutter", , "Firebase"],
+    tags: ["Dart", "Flutter", "Firebase"],
     category: "android app",
     github: "https://github.com/ayushrakesh/meals-app",
     // webapp: "https://vexa-app.netlify.app/",

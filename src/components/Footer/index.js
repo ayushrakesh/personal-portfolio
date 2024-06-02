@@ -87,7 +87,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Harshita Roonwal</Logo>
+        <Logo>Ayush Kumar Rakesh</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -104,7 +104,7 @@ function Footer() {
           {/* <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon> */}
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Harshita Roonwal. All rights reserved.
+          &copy; 2024 Ayush Kumar Rakesh. All rights reserved.
         </Copyright>
       </FooterWrapper>
     </FooterContainer>
