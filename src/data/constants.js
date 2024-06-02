@@ -237,7 +237,7 @@ export const projects = [
       "The Shop-App is a comprehensive e-commerce application developed using Flutter and Firebase. This app provides users with a seamless shopping experience, from browsing products to making secure payments.",
     // image:
     //   "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["Dart", "Flutter", , "Firebase"],
+    tags: ["Dart", "Flutter", "Firebase"],
     category: "android app",
     github: "https://github.com/ayushrakesh/shop-app",
     // webapp: "https://vexa-app.netlify.app/",
@@ -263,7 +263,7 @@ export const projects = [
       "The Chat-App is a real-time messaging application developed with Flutter and Firebase. This app enables users to send and receive messages, share media, and interact in real-time.",
     // image:
     //   "https://user-images.githubusercontent.com/64485885/234916413-96296f13-fe4b-4cc4-b215-e72bd7c27928.png",
-    tags: ["Dart", "Flutter", , "Firebase"],
+    tags: ["Dart", "Flutter", "Firebase"],
     category: "android app",
     github: "https://github.com/ayushrakesh/chat-app",
     // webapp: "https://vexa-app.netlify.app/",
