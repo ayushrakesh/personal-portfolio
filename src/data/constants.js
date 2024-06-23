@@ -9,8 +9,7 @@ export const Bio = {
   description:
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am passionate about learning new technologies, solving complex problems and creating scalable solutions.",
   github: "https://github.com/ayushrakesh",
-  resume:
-    "https://drive.google.com/file/d/1gq8oW7gXwicetuxeIOMp9s-6iRN-kr3E/view?usp=sharing",
+  resume: "https://bit.ly/3xG8N3U",
   linkedin: "https://www.linkedin.com/in/ayush-rakesh-005b55228/",
 };
 
